@@ -18,4 +18,10 @@ let distance = LinearMotion.calculateDistance(100, 2);
 
 ```
 
+`calculateTime(velocity, distance)`
+
+`calculateVelocity(time, distance)`
+
+`calculateDistance(velocity, time)`
+
 It's assumed the values are expressed in meters and seconds.
