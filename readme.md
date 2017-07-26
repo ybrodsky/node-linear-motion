@@ -12,9 +12,9 @@ Calculates velocity, distance and time. Review module
 
 const LinearMotion = require('node-linear-motion');
 
-let time = calculateTime(19, 10);
-let velocity = calculateVelocity(5, 19);
-let distance = calculateDistance(100, 2);
+let time = LinearMotion.calculateTime(19, 10);
+let velocity = LinearMotion.calculateVelocity(5, 19);
+let distance = LinearMotion.calculateDistance(100, 2);
 
 ```
 
