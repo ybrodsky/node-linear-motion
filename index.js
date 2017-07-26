@@ -1,0 +1,1 @@
+module.exports = require('./lib/linear-motion.js');

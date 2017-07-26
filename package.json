@@ -1,0 +1,16 @@
+{
+  "name": "node-linear-motion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha test/test.js"
+  },
+  "author": "Yael Brodsky",
+  "license": "ISC",
+  "devDependencies": {
+    "nyc": "^11.0.3",
+    "should": "^11.2.1"
+  },
+  "repository": "https://github.com/ybrodsky/node-linear-motion.git"
+}
